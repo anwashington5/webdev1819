@@ -1,0 +1,37 @@
+html{
+   background-color:cyan;
+}
+
+.button1{
+    width:200px;
+    height:200px;
+}
+h1 {
+    background-color:purple;
+    font-family: fantasy, arial, georgia, courier,verdana;
+    font-size: 30;
+    
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 800px;
+    
+}
+   
+  .smaller-image {
+    width: 300px;
+    border-style: solid ;
+  border-color: red;
+ border-radius: 30px;
+ margin-bottom: -300px;}
+ 
+ .cities {
+     width:300px;
+     border-style:solid;
+     border-color:red;
+     border-radius:30px;
+     margin-bottom:-300px;
+     padding:30;
+ 
+            
+       
+    }
