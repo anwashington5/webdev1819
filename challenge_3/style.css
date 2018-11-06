@@ -1,37 +1,77 @@
 html{
    background-color:cyan;
+   font-family:fantasy, arial, georgia, courier,verdana,lobster,asap;
+   font-size: medium;
 }
 
 .button1{
     width:200px;
     height:200px;
 }
+h2{ 
+    font-family:lobster;
+    font-size: small;
+    padding-left:40px;
+}
 h1 {
-    background-color:purple;
+    background-color:pink;
     font-family: fantasy, arial, georgia, courier,verdana;
     font-size: 30;
     
     padding-bottom: 30px;
     padding-top: 30px;
     padding-left: 800px;
+    padding-right: 300px;
     
 }
+  
    
-  .smaller-image {
+.dance {
+    font-family:asap;
+    float:left;
     width: 300px;
     border-style: solid ;
   border-color: red;
  border-radius: 30px;
- margin-bottom: -300px;}
+
+  
+      
+  }
  
- .cities {
-     width:300px;
+ .happy {
+     font-family:georgia;
      border-style:solid;
-     border-color:red;
+     border-color:pink;
      border-radius:30px;
-     margin-bottom:-300px;
-     padding:30;
+    width:300px;
+    float:left;
  
             
        
     }
+    .learn {
+        border-style:solid;
+        font-family: georgia;
+        border-color: orange;
+        border-radius:30px;
+        width:300px;
+        float:left;
+       
+    }
+    .love {
+        padding-left:400px;
+        padding-top:15px;
+       
+        
+        
+        
+    }
+table, th, td {
+    border: 1px solid black;
+    border-color: #8860d0;
+   
+} 
+p {
+    c
+}
+    padding:30;
