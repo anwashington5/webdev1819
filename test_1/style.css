@@ -1,0 +1,23 @@
+
+.notbold {
+    font-weight:normal;
+}\
+html {
+    font-family:Helvetica;
+}
+a:active {
+    text-decoration: none;
+}
+section{
+    border-style:dotted;
+    border-color:green;
+    border-radius: 3px;
+}
+p{
+    background-color:lightblue;
+}
+.loving{
+    box-shadow: 10px;
+    border-radius:30px;
+
+}
