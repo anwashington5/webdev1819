@@ -1,23 +1,68 @@
 
-.notbold {
-    font-weight:normal;
+.notbold{
+    font-weight:lighter;
 }\
 html {
     font-family:Helvetica;
 }
-a:active {
-    text-decoration: none;
-}
-section{
+
+
+.great{
     border-style:dotted;
     border-color:green;
     border-radius: 3px;
+    padding-left: 12px;
+    padding-right:12px;
 }
-p{
+.feature{
     background-color:lightblue;
 }
-.loving{
-    box-shadow: 10px;
+.main{
+   box-shadow:10px 10px 10px 10px;
     border-radius:30px;
+     background-color:lightblue;
 
+}
+.taste {
+    padding-left:20px;
+}
+
+.yellow{ 
+    background-color: yellow;
+}
+.noindent{
+     list-style-type: none;
+        list-style-position:inside;
+        margin:0;
+        padding:0; 
+    
+}
+a {
+    text-decoration: none;
+}
+.pink{
+    background-color:pink;
+}
+.aqua{
+    background-color:aquamarine;
+}
+.lemon{
+    background-color:yellow;
+}
+.grape{
+    background-color:purple;
+}
+.inline{
+    display:inline-block;
+}
+.penguin{
+    height:200px;
+    background-image:url(http://goo.gl/e2x4ZK);
+    background-repeat: no-repeat;
+}
+.bread{
+    list-style-type: lower-alpha;
+}
+.move{
+    padding-left:40px;
 }
