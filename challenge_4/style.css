@@ -2,9 +2,34 @@ body{
     background-color:green,black, red;
 }
 .jumbotron{
-color: green;
-background-color:black !important;*/
+color:red;
+background-color:black !important;
+font-family:georgia;
+
 }
 .card{
     background-color:red;
+}
+.form{
+    background-color:green;
+    
+}
+.btn{
+    background-color:green;
+    font-style: italic;
+}
+.live{
+    background-color:gray;
+}
+
+.yes{
+    font-family:georgia;
+    font-size: larger;
+}
+.search{
+   font-family: verdana;
+   
+}
+h2{
+    font-size: medium;
 }
