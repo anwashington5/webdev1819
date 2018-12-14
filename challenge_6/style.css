@@ -1,0 +1,72 @@
+html{
+    font-family: fantasy;
+}
+.jumbotron{
+    background-color:orange;
+}
+h1{
+    font-family: acme;
+    color: white;
+}
+h2{
+    color:white;
+    font-family: acme;
+}
+.bob{
+height:200px;
+}
+.card{
+    background-color:yellow;
+}
+h3{
+    font-size:medium;
+    color:#AF6B35  ;
+}
+h4{
+    color:blue;
+    font-family:Courgette;
+
+}
+.CD{
+    height:200px;
+}
+.cardd{
+    background-color:#FF9333;
+}
+h5{
+    font-size:medium;
+    color:#339CFF  ;
+}
+.carddd{
+    background-color:#33FFD7 ;
+
+}
+h6{
+    font-size:medium;
+    color:#FFFC33  ;
+}
+button{
+    color:red;
+}
+h7{
+    color:red;
+    padding-left:10px;
+}
+.hey{
+    height:200px;
+}
+.cardddd{
+    background-color:#FFD8B8  ;
+}
+h8{
+    color:#3E7C30  ;
+}
+.row{
+    padding-left:580px;
+}
+body {
+  background-image: url("https://electrokami.com/wp-content/uploads/2010/12/90s-nickelodeon-cartoon-characters.jpg");
+}
+.carddddd{
+    background-color:#B337CE   ;
+}
