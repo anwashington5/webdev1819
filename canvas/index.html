@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+ <link rel="stylesheet" type="text/css" href="style.css">
+<meta charset=“utf-8”>
+
+</head>
+<body>
+    <canvas id="myCanvas" width="600px" height="700px"> 
+hello
+    </canvas>
+    <script>
+        var canvas = document.querySelector("#myCanvas");
+        var context = canvas.getContext("2d");
+      
+       var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+var grd = ctx.createLinearGradient(0, 0, 600, 600);
+grd.addColorStop(0, "black");
+grd.addColorStop(0.5, "red");
+grd.addColorStop(1, "white");
+ctx.fillStyle = grd;
+ctx.fillRect(0, 0, 800, 900);
+context.font = "100px Helvetica, Arial, sans-serif";
+context.font = "bold 96px Helvetica, Arial, sans-serif";
+ var gradient = ctx.createLinearGradient(0, 0, 500, 0);
+gradient.addColorStop("0", "black");
+gradient.addColorStop("0.5" ,"red");
+gradient.addColorStop("1.0", "white");
+
+ctx.strokeStyle = gradient;
+ctx.lineWidth = 9;
+
+ 
+
+        
+        
+        
+    
+   
+       drawLetterA();
+       function drawLetterA() {
+    context.moveTo(160, 130);
+        context.lineTo(75, 400);
+       context.lineTo(100,400);
+       context.lineTo(140,250);
+       context.lineTo(156,250);
+       context.lineTo(175,400);
+       context.lineTo(195,400);
+       context.lineTo(160,130);
+        context.stroke(); 
+        
+        
+        
+        
+}
+
+      drawLetterW();
+      function drawLetterW() {
+   context.moveTo(280,400);
+        context.lineTo(360,670);
+        context.lineTo(420,530);
+        context.lineTo(460,670);
+        context.lineTo(560,400);
+        context.lineTo(500,400);
+        context.lineTo(460,545);
+        context.lineTo(430,490);
+        context.lineTo(410,490);
+        context.lineTo(380,545);
+        context.lineTo(340,400);
+        context.lineTo(280,400);
+        context.stroke()
+      
+      }
+      
+      
+      
+       
+        </script> 
+       
+       
+       
+
+   
+
+    
+
+
+
+
+</body>
+</html>

@@ -25,6 +25,7 @@ h3{
 h4{
     color:blue;
     font-family:Courgette;
+    
 
 }
 .CD{
@@ -36,6 +37,7 @@ h4{
 h5{
     font-size:medium;
     color:#339CFF  ;
+    
 }
 .carddd{
     background-color:#33FFD7 ;
@@ -44,6 +46,7 @@ h5{
 h6{
     font-size:medium;
     color:#FFFC33  ;
+    font-family: unlock;
 }
 button{
     color:red;
@@ -60,6 +63,8 @@ h7{
 }
 h8{
     color:#3E7C30  ;
+    font-family:Comfortaa;
+    font-size:medium;
 }
 .row{
     padding-left:580px;
@@ -69,4 +74,9 @@ body {
 }
 .carddddd{
     background-color:#B337CE   ;
+}
+h9{
+    font-size:medium;
+  color: #F48911  ;
+    font-family: Gloria Hallelujah;
 }
