@@ -1,0 +1,103 @@
+
+.jumbotron1{
+     background-color:black;
+     height:45;
+}
+.jumbotron2{
+     background-color:#D5D5D5  ;
+     height:45;
+}
+
+
+.jumbotron3{
+    background-image: url("images/man.jpg");
+    height:700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.jumbotron4{
+    background-color:#3D3E3F;
+    height:800;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.jumbotron5{
+    background-color:#8C9092;
+    height:2;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.para{
+ height:90;
+    width:400;
+    position:relative;
+    
+    
+}
+.h1{
+    background-color:#D7E1E1 ;
+    font-family:Merriweather;
+}
+.card{
+    height:687;
+    background-color: rgba(0,0,0,0.5);
+
+    width:300;
+    position:relative;
+    margin-right:50;
+}
+.h4{
+    position:relative;
+    bottom:700px;
+    
+}
+.break{
+    width:600;
+    height:300;
+    margin-left:40;
+}
+.vl {
+  border-left: .7px solid white;
+  height: 84px;
+  position:relative;
+}
+.p{
+    color:#5FD12E  ;
+}
+.info2{
+    height:198;
+    width:208;
+    background-color:#0B6D3D     ;
+    
+    
+}
+.info3{
+    height:198;
+    width:208;
+    background-color:#49A276;
+    
+}
+.graph{
+    position:relative;
+    bottom:134;
+}
+.info4{
+    height:600;
+    width:850;
+
+}
+.girl{
+    height:300;
+    width:600;
+}
+input,button{
+    margin-top:12;
+}
+button{
+    width:230;
+    background-color:#28AB56;
+}
